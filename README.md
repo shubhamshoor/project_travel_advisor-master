@@ -21,3 +21,4 @@ Hotels: Users can view ratings, addresses, phone numbers, and the number of room
 Restaurants: Users can view ratings, addresses, phone numbers, and available food choices.
 This project combines user-friendly UI design with functional elements to enhance the user's experience in planning their holidays. If you need any help with refining the project or further details, feel free to ask!
 
+![Screenshot (55)](https://github.com/shubhamshoor/project_travel_advisor-master/assets/109654986/fcd332a7-5702-43ae-be0d-3b299bc21393)
